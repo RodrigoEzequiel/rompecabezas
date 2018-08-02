@@ -1,6 +1,6 @@
 # rompecabezasAP
 rompecabeza w/ Picachu
 
-../https://rodrigoezequiel.github.io/rompecabezasAP/ 
+[url/https://rodrigoezequiel.github.io/rompecabezasAP/  [/url]
  
  
